@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/birasants"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/birasants"><img src="https://readme-typing-svg.herokuapp.com/?lines=Future%20Full%20Stack%20Developer;Always%20learning%20new%20things;Future%20Traveler;Gamer&center=true&width=380&height=45"></a>
 </p>
 
  
@@ -49,7 +49,7 @@
 <p>
  <img align="right" width="350" src="/assets/67XI.gif" alt="zoro gif" />
   
- ✌️ &emsp; Enjoy to do programming <br/><br/>
+ ✌️ &emsp; Enjoy programming <br/><br/>
  ❤️ &emsp; Love to play games and watch animes<br/><br/>
  📧 &emsp; Reach me anytime: birasantana2002@outlook.com<br/><br/>
 </p>
