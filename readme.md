@@ -6,17 +6,16 @@
 
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/birasants"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=birasants">
+  <img align="right" src="https://komarev.com/ghpvc/?username=birasants&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+<br>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -24,7 +23,7 @@
                 <b><a target="_blank" href="https://www.linkedin.com/in/ubirajarasantana/">Bira</a></b>
         </samp>
 </h3>
-
+<br>
 
 <p align="center"> 
   <samp>
