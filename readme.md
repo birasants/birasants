@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/birasants"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things;Future%20Traveler;Gamer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/birasants"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things;Future%20Traveler;&center=true&width=380&height=45"></a>
 </p>
 
  
